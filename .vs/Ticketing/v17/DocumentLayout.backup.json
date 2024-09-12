@@ -1,12 +1,61 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\TicketingTest\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|c:\\ticketingtest\\ticketing\\ticketprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\ticketprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|c:\\ticketingtest\\ticketing\\ticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EA18598-CAB2-48D7-AEFE-1B25B3376F48}|Ticketing\\Ticketing.csproj|solutionrelative:ticketing\\ticketsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TicketsForm.cs [Design]",
+              "DocumentMoniker": "C:\\TicketingTest\\Ticketing\\TicketsForm.cs",
+              "RelativeDocumentMoniker": "Ticketing\\TicketsForm.cs",
+              "ToolTip": "C:\\TicketingTest\\Ticketing\\TicketsForm.cs [Design]",
+              "RelativeToolTip": "Ticketing\\TicketsForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:47:03.018Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketPrice.cs",
+              "DocumentMoniker": "C:\\TicketingTest\\Ticketing\\TicketPrice.cs",
+              "RelativeDocumentMoniker": "Ticketing\\TicketPrice.cs",
+              "ToolTip": "C:\\TicketingTest\\Ticketing\\TicketPrice.cs",
+              "RelativeToolTip": "Ticketing\\TicketPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T13:46:59.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

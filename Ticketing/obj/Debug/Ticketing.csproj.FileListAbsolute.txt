@@ -62,3 +62,13 @@ Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request 
 Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\2023\Practical Test Preparation\Student Files\Ticketing\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
 Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\2023\Practical Test Preparation\Student Files\Ticketing\Ticketing\obj\Debug\Ticketing.exe
 Y:\2023\Subjects\ICTICT449\Resources\Session 06 - More on Merging, Pull Request & Generate Software Patch\2023\Practical Test Preparation\Student Files\Ticketing\Ticketing\obj\Debug\Ticketing.pdb
+C:\TicketingTest\Ticketing\bin\Debug\Ticketing.exe.config
+C:\TicketingTest\Ticketing\bin\Debug\Ticketing.exe
+C:\TicketingTest\Ticketing\bin\Debug\Ticketing.pdb
+C:\TicketingTest\Ticketing\obj\Debug\Ticketing.csproj.AssemblyReference.cache
+C:\TicketingTest\Ticketing\obj\Debug\Ticketing.Properties.Resources.resources
+C:\TicketingTest\Ticketing\obj\Debug\Ticketing.TicketsForm.resources
+C:\TicketingTest\Ticketing\obj\Debug\Ticketing.csproj.GenerateResource.cache
+C:\TicketingTest\Ticketing\obj\Debug\Ticketing.csproj.CoreCompileInputs.cache
+C:\TicketingTest\Ticketing\obj\Debug\Ticketing.exe
+C:\TicketingTest\Ticketing\obj\Debug\Ticketing.pdb
